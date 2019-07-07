@@ -22,4 +22,6 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 ![](img/model.jpg)
 
 ## Model Summary 
-<center> ![](img/model-summary.png) </center>
+<p align="center">
+  <img src="img/model-summary.png">
+</p>
