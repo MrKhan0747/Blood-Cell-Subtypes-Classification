@@ -6,9 +6,9 @@
 
 In this project I classified the blood cell subtypes using dataset https://www.kaggle.com/paultimothymooney/blood-cells
 
-    Eosinophils                           Lymphocytes
+   ### Eosinophils &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ### Lymphocytes
 
-![](img/eosinophil.jpeg)          ![](img/lymphocyte.jpeg)
+![](img/eosinophil.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](img/lymphocyte.jpeg)
 
 ## CNN Model 
 
