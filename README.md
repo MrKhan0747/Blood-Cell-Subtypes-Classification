@@ -35,5 +35,4 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 
 
 ## Confusion Matrix Heatmap 
-![Heatmap](img/confusion.png)
-
+<img src="img/confusion.png" alt="Heatmap" width="150" height="150">
