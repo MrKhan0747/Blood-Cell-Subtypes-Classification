@@ -25,13 +25,10 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 ![CNN Model](img/model.jpg)
 
 ## Model Summary 
-<p align="center">
-  <img src="img/model-summary.png" alt="Model Summary">
-</p>
+<img src="img/model-summary.png" alt="Model Summary">
 
 ## Model Evaluation
 ![Model Loss](img/mod-loss.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Model Accuaracy](img/mod-acc.png)
-
 
 ## Confusion Matrix Heatmap 
 <img src="img/confusion.png" alt="Heatmap" width="600" height="400">
