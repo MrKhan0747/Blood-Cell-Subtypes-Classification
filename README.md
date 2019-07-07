@@ -26,6 +26,5 @@ In this project I classified the blood cell subtypes using dataset https://www.k
   <img src="img/model-summary.png">
 </p>
 
-## Training and Validation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Loss Training and Validation Accuracy
-
+## Model Evaluation
 ![](img/mod-loss.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](img/mod-acc.png)
