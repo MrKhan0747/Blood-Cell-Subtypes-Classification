@@ -8,6 +8,4 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 
 ## CNN Model 
 
-<img src='img/model.jpg' height="150">
-
 ![](img/model.jpg)
