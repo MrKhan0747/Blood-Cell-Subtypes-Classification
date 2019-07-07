@@ -19,12 +19,12 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Neutrophils* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Monocytes*
 
 ## CNN Model 
-![](img/model.jpg)
+![CNN Model](img/model.jpg)
 
 ## Model Summary 
 <p align="center">
-  <img src="img/model-summary.png">
+  <img src="img/model-summary.png" alt="Model Summary">
 </p>
 
 ## Model Evaluation
-![](img/mod-loss.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](img/mod-acc.png)
+![Model Loss](img/mod-loss.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Model Accuaracy](img/mod-acc.png)
